@@ -1,0 +1,34 @@
+{
+  "name": "react-project-swiggy",
+  "version": "1.0.0",
+  "description": "Swiggy project",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SowmyaAlluri/react-swiggy.git"
+  },
+  "keywords": [
+    "react",
+    "html"
+  ],
+  "author": "Sowmya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SowmyaAlluri/react-swiggy/issues"
+  },
+  "homepage": "https://github.com/SowmyaAlluri/react-swiggy#readme",
+  "devDependencies": {
+    "parcel": "^2.8.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
