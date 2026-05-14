@@ -1,8 +1,8 @@
 import { CDN_URL } from "../src/components/utils/constants";
 
 
- const RestaurantCard = (props) => {
-    const imgId = props.resList.info.cloudinaryImageId;
+const RestaurantCard = (props) => {
+  const imgId = props.resList.info.cloudinaryImageId;
 
   return (
     <div className="res-card">
